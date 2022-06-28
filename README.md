@@ -2,7 +2,7 @@
 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
-![uh-oh](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
+![uh-oh](https://media.giphy.com/media/z1AIjbEJfX0mDJ9YLp/giphy.gif)
 
 ## Written Instructions to Connect to This Repository:
 
